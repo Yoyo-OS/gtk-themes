@@ -1,13 +1,13 @@
-Source: cutefish-gtk-themes
+Source: yoyo-gtk-themes
 Section: gnome
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: YoyoOS <support@yoyoos.com>
 Build-Depends:
 Standards-Version: 3.9.6
-Homepage: https://cutefishos.com
-Vcs-Git: https://github.com/cutefishos
+Homepage: https://yoyoos.com
+Vcs-Git: https://github.com/yoyoos
 
-Package: cutefish-gtk-themes
+Package: yoyo-gtk-themes
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: CutefishOS GTK Themes
+Description: YoyoOS GTK Themes
